@@ -33,4 +33,4 @@ I like to preserve historical code. I have rescued:
 
 #### Contact
 
-You can reach me by e-mail to `mag@icus.se`.
+You can reach me by e-mail to `mag@icus.se`. My not-so-updated blog is at [mag.icus.se](https://mag.icus.se).
