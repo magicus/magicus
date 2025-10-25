@@ -17,18 +17,18 @@ I’m also the Lead Developer and a main contributor to [Wynntils](https://githu
 
 Another popular tool is [pmanvil-converter](https://github.com/magicus/pmanvil-converter), which converts Bedrock Edition worlds created by PocketMine to Nukkit format.
 
-#### Other Tools
+#### Other Work
 
 Some of my other specialized utilities include:
 * [pppp-dissector](https://github.com/magicus/pppp-dissector): a Wireshark dissector for the PPPP protocol
 * [playgrabber](https://github.com/magicus/playgrabber): downloads videos from svtplay.se
 * [icecc-indicator](https://github.com/magicus/icecc-indicator): an AppIndicator monitor for icecc/icecream 
 
-#### Archives
-
 I like to preserve historical codebases. Some projects I’ve rescued include:
  * [phoneME](https://github.com/magicus/phoneME): the open-source Java ME implementation by Sun
  * [OpenKOM](https://github.com/magicus/OpenKOM): a versatile, terminal-based social community platform
+
+A long time ago, I helped kick off the early explosion of instant messaging clients by reverse-engineering the ICQ protocol, and providing a space for ICQ clone developers to collaborate. I’ve documented some of that history on my [Historical ICQ page](https://github.com/magicus/icq).
 
 #### Contact
 
