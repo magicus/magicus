@@ -4,7 +4,7 @@ Welcome to my home on GitHub. Here you'll find repositories related to both my p
 
 #### OpenJDK
 
-I work at Oracle on [OpenJDK](https://openjdk.java.net), where I contribute to the [JDK](https://github.com/openjdk/jdk). I have also developed a VS Code extension to support OpenJDK development: [vscode-openjdk-devel](https://github.com/magicus/vscode-openjdk-devel).
+I have worked for more than 15 years at Oracle on [OpenJDK](https://openjdk.java.net), where I contributed to the [JDK](https://github.com/openjdk/jdk). I have also developed a VS Code extension to support OpenJDK development: [vscode-openjdk-devel](https://github.com/magicus/vscode-openjdk-devel).
 
 #### Minecraft
 
